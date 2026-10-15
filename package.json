@@ -1,12 +1,20 @@
 {
-  "name": "picsum-photo-cards-js",
+  "name": "pic-gallery-js",
   "version": "1.0.0",
-  "description": "Picsum Photo Cards built with plain HTML, CSS, and JavaScript",
+  "description": "A responsive photo gallery web app built with vanilla JavaScript, HTML5, and CSS3 using the Picsum Photos API.",
   "main": "script.js",
   "scripts": {
     "start": "npx serve ."
   },
-  "keywords": ["javascript", "picsum", "api", "photo-gallery"],
-  "author": "",
+  "keywords": [
+    "javascript",
+    "picsum",
+    "api",
+    "photo-gallery",
+    "vanilla-js",
+    "css-grid",
+    "html5"
+  ],
+  "author": "Akshat Aditya",
   "license": "ISC"
 }
