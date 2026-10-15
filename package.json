@@ -1,0 +1,12 @@
+{
+  "name": "picsum-photo-cards-js",
+  "version": "1.0.0",
+  "description": "Picsum Photo Cards built with plain HTML, CSS, and JavaScript",
+  "main": "script.js",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": ["javascript", "picsum", "api", "photo-gallery"],
+  "author": "",
+  "license": "ISC"
+}
